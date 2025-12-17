@@ -1,2 +1,2 @@
 # python-basics
-Python fundamentals and practice programs for AI engineering basics
+Python fundamentals practice as I begin my AI engineering journey.
